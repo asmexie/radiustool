@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
-	"bitbucket.org/muroachanf/gopub/dbutils"
+	"github.com/asmexie/gopub/common"
+	"github.com/asmexie/gopub/dbutils"
 )
 
 // RadiusCheck ...
